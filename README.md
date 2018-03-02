@@ -4,5 +4,5 @@ Comandos gerais:
 
 npm init                # inicializar um projeto
 
-npm i <pacote> --save <package>  # instalar um pacote local adicionando na secao de dependencias do package.json
+npm i nome_pacote --save <package>  # instalar um pacote local adicionando na secao de dependencias do package.json
   
