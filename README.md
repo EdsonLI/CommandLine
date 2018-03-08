@@ -4,9 +4,10 @@ NPM:
 
 npm init # inicializar um projeto
 
-npm i nome_pacote --save <package>  # instalar um pacote local adicionando na secao de dependencias do package.json
+npm i nome_pacote --save <package>  # instalar pacote local adicionando na secao de dependencias do package.json
 
-  
+//=============================================================================//
+
 HEROKU:
 
 + General:
@@ -32,3 +33,5 @@ heroku logs
 + Clonning repository:
 
 heroku git:clone -a myapp
+
+//=============================================================================//
