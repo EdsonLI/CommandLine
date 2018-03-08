@@ -1,10 +1,15 @@
 NPM:
 
++ General:
+
 npm init # inicializar um projeto
 
 npm i nome_pacote --save <package>  # instalar um pacote local adicionando na secao de dependencias do package.json
+
   
 HEROKU:
+
++ General:
 
 https://devcenter.heroku.com/articles/git#tracking-your-app-in-git
 
