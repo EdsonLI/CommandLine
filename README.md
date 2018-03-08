@@ -12,7 +12,7 @@ https://devcenter.heroku.com/articles/git#creating-a-heroku-remote
 
 https://devcenter.heroku.com/articles/git#deploying-code
 
-Subsequent deploys:
++ Subsequent deploys:
 
 git status
 
@@ -23,3 +23,7 @@ git commit -m "Subsequent deploy"
 git push heroku master
 
 heroku logs
+
++ Clonning repository:
+
+heroku git:clone -a myapp
