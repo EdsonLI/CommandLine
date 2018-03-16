@@ -2,6 +2,8 @@ NPM:
 
 + General:
 
+npm i -g npm # instalar/atualizar o gerenciador de pacotes NPM
+
 npm init # inicializar um projeto
 
 npm i nome_pacote --save <package>  # instalar pacote local adicionando na secao de dependencias do package.json
