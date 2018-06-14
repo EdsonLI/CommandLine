@@ -54,6 +54,7 @@ git add .
 git commit -m "Subsequent deploy"
 
 git push heroku master # to heroku
+
 git push origin master # to github
 
 heroku logs
