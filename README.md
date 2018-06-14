@@ -12,10 +12,12 @@ ANDROID STUDIO:
 
 
 + Emuladores
-+ Listar emuladores via Prompt
++ Listar emuladores via Prompt:
+
 C:\Users\\%username%\AppData\Local\Android\sdk\tools\emulator -list-avds
 
-+ Rodar emulador via Prompt
++ Rodar emulador via Prompt:
+
 C:\Users\\%username%\AppData\Local\Android\sdk\emulator\emulator @Nexus_One
 
 
