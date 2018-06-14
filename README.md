@@ -35,7 +35,7 @@ npm i nome_pacote --save <package>  # instalar pacote local adicionando na secao
 
 //=============================================================================//
 
-HEROKU:
+GIT - HEROKU - GITHUB:
 
 + General:
 
@@ -53,7 +53,8 @@ git add .
 
 git commit -m "Subsequent deploy"
 
-git push heroku master
+git push heroku master # to heroku
+git push origin master # to github
 
 heroku logs
 
