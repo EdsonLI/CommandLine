@@ -1,7 +1,7 @@
 REACT-NATIVE:
 
 + General:
-
+react-native init <project_name> # criar estrutura de projeto
 react-native run-android # rodar build em emulador
 
 //=============================================================================//
