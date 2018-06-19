@@ -2,9 +2,9 @@ REACT-NATIVE:
 
 + General:
 
-react-native init <project_name> # criar estrutura de projeto
+> react-native init <project_name> # criar estrutura de projeto
 
-react-native run-android # rodar build em emulador
+> react-native run-android # rodar build em emulador
 
 //=============================================================================//
 
@@ -16,11 +16,11 @@ ANDROID STUDIO:
 + Emuladores
 + Listar emuladores via Prompt:
 
-C:\Users\\%username%\AppData\Local\Android\sdk\tools\emulator -list-avds
+> C:\Users\\%username%\AppData\Local\Android\sdk\tools\emulator -list-avds
 
 + Rodar emulador via Prompt:
 
-C:\Users\\%username%\AppData\Local\Android\sdk\emulator\emulator @Nexus_One
+> C:\Users\\%username%\AppData\Local\Android\sdk\emulator\emulator @Nexus_One
 
 
 //=============================================================================//
@@ -29,11 +29,11 @@ NPM:
 
 + General:
 
-npm i -g npm # instalar/atualizar o gerenciador de pacotes NPM
+> npm i -g npm # instalar/atualizar o gerenciador de pacotes NPM
 
-npm init # inicializar um projeto
+> npm init # inicializar um projeto
 
-npm i nome_pacote --save <package>  # instalar pacote local adicionando na secao de dependencias do package.json
+> npm i nome_pacote --save <package>  # instalar pacote local adicionando na secao de dependencias do package.json
 
 //=============================================================================//
 
@@ -49,20 +49,20 @@ https://devcenter.heroku.com/articles/git#deploying-code
 
 + Subsequent deploys:
 
-git status
+> git status
 
-git add .
+> git add .
 
-git commit -m "Subsequent deploy"
+> git commit -m "Subsequent deploy"
 
-git push heroku master # to heroku
+> git push heroku master # to heroku
 
-git push origin master # to github
+> git push origin master # to github
 
-heroku logs
+> heroku logs
 
 + Clonning repository:
 
-heroku git:clone -a myapp
+> heroku git:clone -a myapp
 
 //=============================================================================//
