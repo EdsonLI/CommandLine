@@ -47,6 +47,14 @@ https://devcenter.heroku.com/articles/git#creating-a-heroku-remote
 
 https://devcenter.heroku.com/articles/git#deploying-code
 
+
++ Quick setup (push an existing repository from the command line)
+
+> git remote add origin https://github.com/EdsonLI/tutorial.git
+
+> git push origin master
+
+
 + Subsequent deploys:
 
 > git status
