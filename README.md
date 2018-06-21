@@ -73,4 +73,6 @@ https://devcenter.heroku.com/articles/git#deploying-code
 
 > heroku git:clone -a myapp
 
+> git clone https://github.com/user_account/repository_name.git
+
 //=============================================================================//
